@@ -1,1 +1,6 @@
-# this is type editor for programming, typing
+# Type editor
+
+> An editor for programming and editing text.
+
+My friend and I are building this editor for self improvement,
+If you have any issues please report the issue in Github thank you
